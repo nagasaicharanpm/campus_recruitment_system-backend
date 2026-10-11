@@ -13,3 +13,6 @@ target/
 
 # Local uploads
 uploads/
+
+# Local backup of the former nested Git repository
+.git-backup/
