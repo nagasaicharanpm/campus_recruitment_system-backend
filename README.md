@@ -23,3 +23,4 @@ update the setup reference accordingly.
 This directory can be pushed as its own GitHub repository. Commit
 `.env.example`, `pom.xml`, and the Maven wrapper; do not commit `.env`,
 `uploads/`, or `target/`.
+"# campus_recruitment_system-backend" 
